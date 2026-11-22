@@ -9,13 +9,6 @@
 * **🌓 Dark Mode Support:** Automatically generates high-contrast highlighting, e.g. purple for dark mode, yellow for light mode.
 * 🧠 Supports the TTS methods **Chatterbox** and **XTTS-v2**.
 
----
-
-## 🎥 See Calliope in Action
-
-Watch a short demonstration of the system in use. This video shows the conversion process and the final playback in the Thorium reader, demonstrating the exact synchronization between the text highlighting and the TTS audio.
-
-[**▶️ Watch the Video Demonstration**](https://youtu.be/j15BHY1hh7w)
 
 ---
 
@@ -103,15 +96,14 @@ Packaging: The modified files are re-zipped into a valid EPUB 3 file.
 
 If you use this code for your research, please cite the following paper:
 
-> Hammer, H. L., Thambawita, V., & Halvorsen, P. (2026, April). Calliope: A TTS-based Narrated E-book Creator Ensuring Exact Synchronization, Privacy, and Layout Fidelity. In *Proceedings of the ACM Multimedia Systems Conference 2026* (pp. 416-422).
+> Johnny, W. (2026, April). Calliope: A TTS-based Narrated E-book Creator Ensuring Exact Synchronization, Privacy, and Layout Fidelity. In *Proceedings of the ACM Multimedia Systems Conference 2026* (pp. 416-422).
 
 **BibTeX:**
 ```bibtex
 @inproceedings{hammer2026calliope,
   title={Calliope: A TTS-based Narrated E-book Creator Ensuring Exact Synchronization, Privacy, and Layout Fidelity},
-  author={Hammer, Hugo L and Thambawita, Vajira and Halvorsen, P{\aa}l},
+  author={Johnny, David, and John, P{\aa}l},
   booktitle={Proceedings of the ACM Multimedia Systems Conference 2026},
-  pages={416--422},
   year={2026}
 }
 ```
